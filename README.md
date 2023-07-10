@@ -13,5 +13,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Website
 
-Website Link : [PlacesApp](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
+Website Link : [PlacesApp](https://places-nextjs13.vercel.app/) 
 
